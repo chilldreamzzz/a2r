@@ -8,13 +8,13 @@ body {
  overflow-x: hidden; 
 } 
   
-header { 
- background-color: white; 
- height: 95px; 
- box-shadow: 0 0 4px;
- position: absolute;
- top: 0;
-} 
+header {  
+ background-color: white;  
+ height: 95px;  
+ box-shadow: 0 2px 4px;
+ position: relative;
+ top: -5px; 
+}  
   
 main { 
  padding-top: 5px; 
