@@ -10,12 +10,19 @@ color: black;
 
 
 h1 {
-font-family: Determination; font-size: 60px; padding-top; border-bottom: solid, width: 60px; 
+font-family: Determination;
+font-size: 60px;
+padding-top; border-bottom:solid, width: 60px; 
 letter-spacing: 1px;
 }
 
 p {
-font-family: Determination; font-size: 25px; border: solid; border-radius: 25px; padding: 5px; background-color: white;
+font-family: Determination;
+font-size: 25px;
+border: solid;
+border-radius: 25px;
+padding: 5px;
+background-color: white;
 letter-spacing: 1px;
 color: black;
 -webkit-text-fill-color: #005EFF;
@@ -40,9 +47,9 @@ width: 175px; height: 182px; padding-left: 54px; padding-top: 5px;
 
 #rom_button {
 font-family: Determination; font-size: 30px;
-letter-spacing: 1px;
+letter-spacing: 0.75px;
 color: black;
--webkit-text-fill-color: #14AEEB;
+-webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 1px;
 border-radius: 20px;
 border: solid; background-color: white;
