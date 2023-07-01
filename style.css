@@ -10,7 +10,7 @@ color: black;
 }
 
 #two {
-font-size: 48px;
+font-size: 55px;
 height: 85%;
 }
 
@@ -23,7 +23,8 @@ letter-spacing: 1px;
 #welcome {
 font-size: 25px;
 border: solid;
-border-radius: 25px 10px 25px 10px;
+border-radius: 35px 5px 35px 5px;
+border-width: 80%;
 padding: 5px;
 background-color: white;
 letter-spacing: 1px;
@@ -49,6 +50,7 @@ width: 175px; height: 182px; padding-left: 54px; padding-top: 5px;
 }
 
 #rom_button {
+font-family: Determination;
 font-size: 30px;
 letter-spacing: 0.75px;
 color: black;
