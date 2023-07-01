@@ -7,7 +7,6 @@ background-color: #c2d7ee; color: #005EFF; text-align: center;
 color: black;
 -webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 1px;
-border-bottom: solid #005EFF width="85%";
 }
 
 #two {
@@ -23,7 +22,7 @@ letter-spacing: 1px;
 
 #welcome {
 font-size: 25px;
-border: solid width="80%";
+border: solid;
 border-radius: 35px 5px 35px 5px;
 padding: 5px;
 background-color: white;
