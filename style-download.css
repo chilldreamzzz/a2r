@@ -19,8 +19,13 @@ h1 {
 font-size: 60px; 
 padding-top; 
 letter-spacing: 1px; 
-} 
- 
+}
+
+u { 
+color: #005EFF; 
+height: 2px; 
+}
+
 #d-circle {
 padding: 5px;
 margin: 3px;
