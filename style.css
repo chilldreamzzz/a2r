@@ -11,9 +11,9 @@ body {
 header { 
  background-color: white; 
  height: 95px; 
- box-shadow: 0 0 4px;
+ box-shadow: 0 2 0;
  position: absolute;
- top: -4px;
+ top: 0;
 } 
   
 main { 
