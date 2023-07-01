@@ -9,12 +9,6 @@ color: black;
 -webkit-text-stroke-width: 1px;
 }
 
-u {
-color: black;
--webkit-text-fill-color: #005EFF; 
--webkit-text-stroke-width: 1px;
-}
-
 #two {
 font-size: 55px;
 height: 85%;
@@ -37,6 +31,11 @@ color: black;
 -webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 1px;
 }
+
+u {
+color: #005EFF;
+height: 2px;
+}
 
 .mm1 {
 width: 136px; height: 154px; padding-bottom: 5px;
