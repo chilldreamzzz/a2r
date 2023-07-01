@@ -3,7 +3,8 @@ background-color: #c2d7ee; color: #005EFF; text-align: center;
 }
 
 .title {
-font-weight: bold;
+color: black;
+-webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 1px;
 }
 
@@ -11,9 +12,6 @@ font-weight: bold;
 h1 {
 font-family: Determination; font-size: 60px; padding-top; border-bottom: solid, width: 60px; 
 letter-spacing: 1px;
-color: black;
--webkit-text-fill-color: #005EFF;
--webkit-text-stroke-width: 1px;
 }
 
 p {
