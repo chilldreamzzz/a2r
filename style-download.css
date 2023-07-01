@@ -5,7 +5,7 @@ background-color: #c2d7ee;
 
 #d-circle {
 margin: 3px;
-border: solid; 
-border-radius: 35px 5px 35px 5px; 
+border: solid lightGrey; 
+border-radius: 10px;
 background-color: lightGrey;
 }
