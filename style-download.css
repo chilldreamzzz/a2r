@@ -12,7 +12,8 @@ background-color: white;
 height: 105px;   
 box-shadow: 0 2px 4px; 
 position: relative; 
-top: -5px;  
+top: -5px;
+text-align: center;
 }  
 
 main { 
