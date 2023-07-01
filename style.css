@@ -4,6 +4,7 @@ background-color: #c2d7ee; color: #005EFF; text-align: center;
 
 .title {
 font-weight: bold;
+-webkit-text-stroke-width: 1px;
 }
 
 
