@@ -1,77 +1,75 @@
-body {
-font-family: Determination;
-background-color: #c2d7ee;
-color: #005EFF;
-text-align: center;
-padding: 0;
-margin: 0;
-overflow-x: hidden;
-}
-
-header {
-background-color: white;
-height: 75px;
-box-shadow: 0 0 4px;
-padding: 5px;
-}
-
-main {
-padding-top: 5px;
-}
-
-.title {
-color: black;
--webkit-text-fill-color: #005EFF;
--webkit-text-stroke-width: 1px;
-}
-
-#two {
-font-size: 55px;
-}
-
-h1 {
-font-size: 60px;
-letter-spacing: 1px;
-}
-
-#welcome {
-font-size: 25px;
-border: solid;
-border-radius: 35px 10px 35px 10px;
-padding: 5px;
-margin: 4px;
-background-color: white;
-letter-spacing: 1px;
-color: black;
--webkit-text-fill-color: #005EFF;
--webkit-text-stroke-width: 1px;
-}
-
-u {
-color: #005EFF;
-height: 2px;
-}
-
-.mm1 {
-width: 136px; height: 154px; padding-bottom: 5px;
-}
-
-.poke {
-width: 175px; height: 182px; padding-left: 54px; padding-top: 5px;
-}
-
-#rom_button {
-font-family: Determination;
-font-size: 30px;
-letter-spacing: 0.75px;
-color: black;
--webkit-text-fill-color: #005EFF;
--webkit-text-stroke-width: 0.75px;
-border-radius: 20px;
-border: solid;
-height: 40px;
-width: 60px;
-background-color: white;
-padding: 3px;
-}
-
+body { 
+ font-family: Determination; 
+ background-color: #c2d7ee; 
+ color: #005EFF; 
+ text-align: center; 
+ padding: 0; 
+ margin: 0; 
+ overflow-x: hidden; 
+ } 
+  
+ header { 
+ background-color: white; 
+ height: 75px; 
+ box-shadow: 0 0 4px;
+ } 
+  
+ main { 
+ padding-top: 5px; 
+ } 
+  
+ .title { 
+ color: black; 
+ -webkit-text-fill-color: #005EFF; 
+ -webkit-text-stroke-width: 1px; 
+ } 
+  
+ #two { 
+ font-size: 55px; 
+ } 
+  
+ h1 { 
+ font-size: 60px; 
+ letter-spacing: 1px; 
+ } 
+  
+ #welcome { 
+ font-size: 25px; 
+ border: solid; 
+ border-radius: 35px; 
+ padding: 5px; 
+ margin: 4px; 
+ background-color: white; 
+ letter-spacing: 1px; 
+ color: black; 
+ -webkit-text-fill-color: #005EFF; 
+ -webkit-text-stroke-width: 1px; 
+ } 
+  
+ u { 
+ color: #005EFF; 
+ height: 2px; 
+ } 
+  
+ .mm1 { 
+ width: 136px; height: 154px; padding-bottom: 5px; 
+ } 
+  
+ .poke { 
+ width: 175px; height: 182px; padding-left: 54px; padding-top: 5px; 
+ } 
+  
+ #rom_button { 
+ font-family: Determination; 
+ font-size: 30px; 
+ letter-spacing: 0.75px; 
+ color: black; 
+ -webkit-text-fill-color: #005EFF; 
+ -webkit-text-stroke-width: 0.75px; 
+ border-radius: 25px; 
+ border: solid; 
+ height: 50px; 
+ width: 105px; 
+ background-color: white; 
+ padding: 3px; 
+ }
