@@ -6,7 +6,8 @@ background-color: #c2d7ee;
 .title { 
 color: black; 
 -webkit-text-fill-color: #005EFF; 
--webkit-text-stroke-width: 1px; 
+-webkit-text-stroke-width: 1px;
+text-align: center;
 } 
  
 #two { 
