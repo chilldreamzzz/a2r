@@ -6,34 +6,34 @@ body {
  padding: 0; 
  margin: 0; 
  overflow-x: hidden; 
- } 
+} 
   
- header { 
+header { 
  background-color: white; 
  height: 95px; 
  box-shadow: 0 0 4px;
- } 
+} 
   
- main { 
+main { 
  padding-top: 5px; 
- } 
+} 
   
- .title { 
+.title { 
  color: black; 
  -webkit-text-fill-color: #005EFF; 
  -webkit-text-stroke-width: 1px; 
- } 
+} 
   
- #two { 
+#two { 
  font-size: 55px; 
- } 
+} 
   
- h1 { 
+h1 { 
  font-size: 60px; 
  letter-spacing: 1px; 
- } 
+} 
   
- #welcome { 
+#welcome { 
  font-size: 25px; 
  border: solid; 
  border-radius: 35px; 
@@ -44,22 +44,27 @@ body {
  color: black; 
  -webkit-text-fill-color: #005EFF; 
  -webkit-text-stroke-width: 1px; 
- } 
+} 
   
- u { 
+u { 
  color: #005EFF; 
  height: 2px; 
- } 
+} 
   
- .mm1 { 
- width: 136px; height: 154px; padding-bottom: 5px; 
- } 
+.mm1 { 
+ width: 136px;
+ height: 154px;
+ padding-bottom: 5px; 
+} 
   
- .poke { 
- width: 175px; height: 182px; padding-left: 54px; padding-top: 5px; 
- } 
+.poke { 
+ width: 175px;
+ height: 182px;
+ padding-left: 54px;
+ padding-top: 5px; 
+} 
   
- #rom_button { 
+#rom_button { 
  font-family: Determination; 
  font-size: 30px; 
  letter-spacing: 0.75px; 
@@ -72,4 +77,4 @@ body {
  width: 105px; 
  background-color: white; 
  padding: 3px; 
- }
+}
