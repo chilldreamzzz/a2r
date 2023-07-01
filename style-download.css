@@ -6,8 +6,8 @@ background-color: #c2d7ee;
 #d-circle {
 padding: 5px;
 margin: 3px;
-border: solid lightGrey; 
+border: solid #005EFF; 
 border-radius: 10px;
-background-color: lightGrey;
+background-color: lightBlue;
 font-size: 35px;
 }
