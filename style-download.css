@@ -4,8 +4,10 @@ background-color: #c2d7ee;
 }
 
 #d-circle {
-margin: 3px;
+padding: 5px;
+margin: 3px
 border: solid lightGrey; 
 border-radius: 10px;
 background-color: lightGrey;
+font-size: 35px;
 }
