@@ -7,6 +7,7 @@ background-color: #c2d7ee; color: #005EFF; text-align: center;
 color: black;
 -webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 1px;
+border-bottom: solid #005EFF
 }
 
 #two {
@@ -22,24 +23,15 @@ letter-spacing: 1px;
 
 #welcome {
 font-size: 25px;
-border: solid;
+border: solid width="80%";
 border-radius: 35px 5px 35px 5px;
-border-width: 435px;
 padding: 5px;
 background-color: white;
 letter-spacing: 1px;
 color: black;
 -webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 1px;
-}
-
-a {
-font-size: 30px;
-letter-spacing: 1px;
-color: black;
--webkit-text-fill-color: white;
--webkit-text-stroke-width: 1px;
-}
+}
 
 .mm1 {
 width: 136px; height: 154px; padding-bottom: 5px;
