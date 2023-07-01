@@ -1,12 +1,15 @@
 body {
 font-family: Determination;
 background-color: #c2d7ee; color: #005EFF; text-align: center;
+padding: 0;
+margin: 0;
+overflow-x: hidden;
 }
 
 header {
 background-color: white;
 box-shadow: 0 0 4px;
-padding: 3px;
+padding: 5px;
 }
 
 .title {
@@ -24,6 +27,7 @@ h1 {
 font-size: 60px;
 padding-top;
 letter-spacing: 1px;
+padding: 3px;
 }
 
 #welcome {
