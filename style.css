@@ -9,6 +9,9 @@ color: black;
 -webkit-text-stroke-width: 1px;
 }
 
+#two {
+height: 85%;
+}
 
 h1 {
 font-size: 60px;
@@ -16,7 +19,7 @@ padding-top; border-bottom:solid, width: 60px;
 letter-spacing: 1px;
 }
 
-.welcome {
+#welcome {
 font-size: 25px;
 border: solid;
 border-radius: 25px;
