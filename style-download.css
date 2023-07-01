@@ -3,6 +3,17 @@ font-family: Determination;
 background-color: #c2d7ee; 
 }
 
+.title { 
+color: black; 
+-webkit-text-fill-color: #005EFF; 
+-webkit-text-stroke-width: 1px; 
+} 
+ 
+#two { 
+font-size: 55px; 
+height: 85%; 
+}
+
 #d-circle {
 padding: 5px;
 margin: 3px;
