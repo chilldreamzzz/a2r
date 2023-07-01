@@ -9,7 +9,7 @@ overflow-x: hidden;
 }
 
 header {
-background-color: white;
+background-color: white, height="60px";
 box-shadow: 0 0 4px;
 padding: 5px;
 }
