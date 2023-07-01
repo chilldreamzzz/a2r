@@ -71,7 +71,9 @@ color: black;
 -webkit-text-fill-color: #005EFF;
 -webkit-text-stroke-width: 0.75px;
 border-radius: 20px;
-border: solid height: "40px" width: "60px";
+border: solid;
+height: 40px;
+width: 60px;
 background-color: white;
 padding: 3px;
 }
