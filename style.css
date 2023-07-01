@@ -3,6 +3,12 @@ font-family: Determination;
 background-color: #c2d7ee; color: #005EFF; text-align: center;
 }
 
+header {
+background-color: white;
+box-shadow: 0 0 4px;
+padding: 3px;
+}
+
 .title {
 color: black;
 -webkit-text-fill-color: #005EFF;
