@@ -46,7 +46,8 @@ h1 {
  letter-spacing: 1px; 
  color: black; 
  -webkit-text-fill-color: #005EFF; 
- -webkit-text-stroke-width: 1px; 
+ -webkit-text-stroke-width: 1px;
+ width: 95%;
 } 
   
 u { 
